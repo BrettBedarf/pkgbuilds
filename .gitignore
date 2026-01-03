@@ -1,0 +1,23 @@
+# Build and package directories
+pkg/
+src/
+
+# Built packages
+*.pkg.tar*
+*.AppImage
+# Source archives
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+*.zip
+*.7z
+*.tgz
+*.rar
+
+# Temporary and log files
+*.log
+*.sig
+*.part
+*.bak
+*.local
